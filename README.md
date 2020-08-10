@@ -1,4 +1,4 @@
-# Instsall
+# Install
 
 ```bash
 yarn add @craco/craco craco-glslify-loader
