@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/craco-glslify-loader.svg)](https://badge.fury.io/js/craco-glslify-loader)
+
 # Install
 
 ```bash
