@@ -1,3 +1,9 @@
+# Instsall
+
+```bash
+yarn add @craco/craco craco-glslify-loader
+```
+
 # Usage
 
 ```js
