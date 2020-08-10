@@ -3,6 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": "Gianmarco Simone",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsimone/craco-glslify-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gsimone/craco-glslify-loader/issues"
+  },
+  "homepage": "https://github.com/gsimone/craco-glslify-loader#readme",
   "dependencies": {
     "@craco/craco": "^5.6.4",
     "glslify-loader": "^2.0.0",
